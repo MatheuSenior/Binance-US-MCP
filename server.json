@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.nirholas/binance-us-mcp",
+  "title": "Binance US MCP",
+  "description": "Binance.US API MCP server - market data, spot trading, wallets, accounts, staking, OTC, sub-accounts",
+  "repository": {
+    "url": "https://github.com/nirholas/Binance-US-MCP",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "icons": {
+    "light": "https://raw.githubusercontent.com/nirholas/g1t/d9a0ee206b8136472c04384905999369f198b3c9/milady.svg",
+    "dark": "https://raw.githubusercontent.com/nirholas/g1t/d9a0ee206b8136472c04384905999369f198b3c9/bg.svg"
+  },
+  "packages": {
+    "npm": "@nirholas/binance-us-mcp-server"
+  },
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "keywords": ["binance", "binance-us", "crypto", "trading", "exchange", "spot", "staking", "wallet", "usa", "mcp", "ai"],
+      "category": "Crypto Trading"
+    }
+  }
+}
